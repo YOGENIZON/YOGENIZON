@@ -34,5 +34,4 @@
 
 ### My Contribution Graph
 
-![Snake](https://raw.githubusercontent.com/YOGENIZON/YOGENIZON/main/dist/github-snake.svg)
-
+![snake gif](https://github.com/YOGENIZON/YOGENIZON/blob/output/github-snake-dark.svg)
