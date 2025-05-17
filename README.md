@@ -4,18 +4,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=YonkiCode+Jr+Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
-## ✝ About Me
+<h2 align="center">✝ About Me</h2>
 
 <div align="center">
-
-- Soy Cristiano Adventista del Séptimo Día
-- Actualmente estudiando *Desarrollo de Software* en [ITLA](https://itla.edu.do)
-- Egresado de *Antena Academy* como Junior Full Stack Developer
-- Apasionado por el aprendizaje y la tecnología
+  
+&nbsp;Soy Cristiano Adventista del Séptimo Día<br>
+&nbsp;Actualmente estudiando *Desarrollo de Software* en [ITLA](https://itla.edu.do)<br>
+&nbsp;Egresado de *Antena Academy* como Junior Full Stack Developer<br>
+&nbsp;Apasionado por el aprendizaje y la tecnología
 
 </div>
 
-## 📲 Connect with Me
+<h2 align="center">📲 Connect with Me</h2>
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 </div>
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 </div>
 
-## ⚙ Tech Stack
+<h2 align="center">⚙ Tech Stack</h2>
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 </div>
 
-## My Contribution Graph
+<h2 align="center">My Contribution Graph</h2>
 
 <div align="center">
 
