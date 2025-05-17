@@ -6,32 +6,48 @@
 
 ## ✝ About Me
 
-- I'm a Seventh-day Adventist Christian.
-- Currently studying *Software Development* at [ITLA](https://itla.edu.do).
-- Graduate of *Antena Academy* as a Junior Full Stack Developer.
-- Passionate about learning and technology.
+<div align="center">
 
+- Soy Cristiano Adventista del Séptimo Día
+- Actualmente estudiando *Desarrollo de Software* en [ITLA](https://itla.edu.do)
+- Egresado de *Antena Academy* como Junior Full Stack Developer
+- Apasionado por el aprendizaje y la tecnología
+
+</div>
 
 ## 📲 Connect with Me
+
+<div align="center">
 
 [<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>](https://www.linkedin.com/in/yogenizon-gomera-jaquez-485159336/)
 [<img src="https://skillicons.dev/icons?i=instagram" height="30"/>](https://www.instagram.com/yogenizon_gomera?igsh=eWc2anY3ejA4eHdu/)
 [<img src="assest/descarga (1).png" height="30" style="filter: invert(16%) sepia(99%) saturate(7404%) hue-rotate(356deg) brightness(95%) contrast(118%)"/>](https://leetcode.com/u/YOJO_03/)
 
+</div>
+
 ## 🎓 Education
 
-<img src="assest/descarga.png" alt="ITLA" width="120"/> 
-<img src= "assest/descarga (2).png" alt= "Alterna Academy"
-  width="120"/>
+<div align="center">
 
+<img src="assest/descarga.png" alt="ITLA" width="120"/> 
+<img src="assest/descarga (2).png" alt="Alterna Academy" width="120"/>
+
+</div>
 
 ## ⚙ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,dart,flutter,kotlin,androidstudio,bootstrap,html,css,mysql,postgres,mongodb,dotnet,csharp" />
-  <img src="https://skillicons.dev/icons?i=sql" />
+
+<img src="https://skillicons.dev/icons?i=ts,dart,flutter,kotlin,androidstudio,bootstrap,html,css,mysql,postgres,mongodb,dotnet,csharp" />
+<br>
+<img src="https://skillicons.dev/icons?i=sql" />
+
 </div>
 
-### My Contribution Graph
+## My Contribution Graph
+
+<div align="center">
 
 ![snake gif](https://github.com/YOGENIZON/YOGENIZON/blob/output/github-snake-dark.svg)
+
+</div>
