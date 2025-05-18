@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="assest/vaner.png" width="800"/>
+  <img src="assest/vaner.png" width="900"/>
 </div>
 
 <h2 align="center">✝ About Me</h2>
