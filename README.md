@@ -2,14 +2,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=YonkiCode+Jr+Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+  <img src="vaner.png" alt="YOGENIZON GOMERA - JR FULL STACK DEVELOPER" width="600"/>
+</div>
+
 <h2 align="center">✝ About Me</h2>
 
 <div align="center">
   
-&nbsp;Soy Cristiano Adventista del Séptimo Día<br>
-&nbsp;Actualmente estudiando *Desarrollo de Software* en [ITLA](https://itla.edu.do)<br>
-&nbsp;Egresado de *Antena Academy* como Junior Full Stack Developer<br>
-&nbsp;Apasionado por el aprendizaje y la tecnología
+Seventh-day Adventist Christian<br> 
+Currently studying *Software Development* at [ITLA](https://itla.edu.do)<br>
+Graduate of *Antena Academy* as a Junior Full Stack Developer<br>
+Passionate about learning and technology
 
 </div>
 
