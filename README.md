@@ -12,7 +12,7 @@
   
 Seventh-day Adventist Christian<br> 
 Currently studying *Software Development* at [ITLA](https://itla.edu.do)<br>
-Graduate of *Antena Academy* as a Junior Full Stack Developer<br>
+Graduate of *Alterna Academy* as a Junior Full Stack Developer<br>
 Passionate about learning and technology
 
 </div>
