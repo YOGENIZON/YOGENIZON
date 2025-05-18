@@ -31,8 +31,8 @@ Passionate about learning and technology
 
 <div align="center">
 
-<img src="assest/descarga.png" alt="ITLA" width="120"/> 
-<img src="assest/descarga (2).png" alt="Alterna Academy" width="120"/>
+<img src="assest/descarga.png" ref="https://itla.edu.do/" alt="ITLA" width="120"/> 
+<img src="assest/descarga (2).png" ref="https://www.alternaacademy.com/" alt="Alterna Academy" width="120"/>
 
 </div>
 
