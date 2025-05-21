@@ -1,8 +1,9 @@
-<div aling="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=200&color=002D62&lines=YonkiCode)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=200&color=FFFFFF&lines=Jr+Full)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=200&color=CE1126&lines=Stack+Developer)
-<div/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=200&color=002D62&lines=YonkiCode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=200&color=FFFFFF&lines=Jr+Full" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=200&color=CE1126&lines=Stack+Developer" />
+</div>
 <div align="center">
   <img src="assest/vaner.png" width="900"/>
 </div>
