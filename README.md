@@ -1,7 +1,9 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=002D62&center=true&vCenter=true&width=435&lines=YonkiCode;Jr+Full;Stack+Developer" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=200&color=002D62&lines=YonkiCode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=200&color=FFFFFF&lines=Jr+Full" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=200&color=CE1126&lines=Stack+Developer" />
+</div>
 <div align="center">
   <img src="assest/vaner.png" width="900"/>
 </div>
