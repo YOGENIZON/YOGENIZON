@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=YonkiCode+Jr+Full+Stack+Developer" alt="Typing SVG" color="Red" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=YonkiCode+Jr+Full+Stack+Developer" alt="Typing SVG"
 </h1>
 
 <div align="center">
