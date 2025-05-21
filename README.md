@@ -1,16 +1,6 @@
 <h1 align="center">
-  <img id="typingEffect" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&color=FF0000&lines=YonkiCode+Jr+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&color=FF0000&lines=YonkiCode+Jr+Full+Stack+Developer" />
 </h1>
-
-<script>
-  const colors = ["FF0000", "0000FF", "FFFF00", "800080", "FFFFFF"];
-  let index = 0;
-
-  setInterval(() => {
-    document.getElementById("typingEffect").src = `https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&color=${colors[index]}&lines=YonkiCode+Jr+Full+Stack+Developer`;
-    index = (index + 1) % colors.length;
-  }, 1000);
-</script>
 
 <div align="center">
   <img src="assest/vaner.png" width="900"/>
