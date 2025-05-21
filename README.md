@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&color=FF0000&lines=YonkiCode+Jr+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&color=21c5f2&lines=YonkiCode+Jr+Full+Stack+Developer" />
 </h1>
 
 <div align="center">
